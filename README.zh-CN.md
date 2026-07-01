@@ -1,4 +1,4 @@
-# Agent Skills 仓库
+# Agent Skills
 
 [English](README.md) | 中文
 

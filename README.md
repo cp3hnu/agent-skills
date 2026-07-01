@@ -1,4 +1,4 @@
-# Agent Skills Repository
+# Agent Skills
 
 English | [中文](README.zh-CN.md)
 
