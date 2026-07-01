@@ -1,7 +1,6 @@
 ---
 name: react-formatting
 description: Use when setting up or fixing lint/format inconsistencies in a React project without Next.js (Vite, CRA, etc.), when commit messages fail conventional-commit checks, or when configuring eslint-plugin-react, Prettier, Husky, lint-staged, commitlint, and VSCode/Cursor plugins.
-disable-model-invocation: true
 ---
 
 # React Code Formatting

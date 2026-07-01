@@ -1,7 +1,6 @@
 ---
 name: next-formatting
 description: Use when setting up or fixing lint/format inconsistencies in a Next.js project (package.json has next), when commit messages fail conventional-commit checks, or when configuring eslint-config-next, Prettier, Husky, lint-staged, commitlint, and VSCode/Cursor plugins.
-disable-model-invocation: true
 ---
 
 # Next.js Code Formatting
